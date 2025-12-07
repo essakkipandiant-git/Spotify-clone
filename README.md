@@ -3,6 +3,9 @@
 A fully responsive **Spotify Web Player clone** built using **HTML, CSS, and Font Awesome**.  
 This project recreates Spotify’s clean design, sidebar navigation, cards layout, and bottom music player UI.
 
+## 🚀 Live Demo
+
+👉 https://essakkipandiant-git.github.io/Spotify-clone/
 
 ## 📸 Screenshots
 
